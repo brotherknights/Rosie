@@ -89,18 +89,6 @@
 	超链接标题 链接跳转的地址 悬停标题
 
 ### 插入图片
-![壁纸截图](
-        #include<stdio.h>
-        int main(){
-        }
+![壁纸截图](C:/Users/FYY/Desktop/图片1.jpg "点击查看壁纸截图")
 
-```
 
-### 超链接技术
-
-[Github](https://www.github.com "abc")
-
-        超链接标题 链接跳转的地址 悬停标题
-
-### 插入图片
-![壁纸截图](C:/Users/FYY/Desktop.图片1.jpg "壁纸截图")
